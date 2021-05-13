@@ -8,3 +8,6 @@ https://drive.google.com/file/d/1V8Q0YyA14T2oycLzyzBxtyqolXozkqBw/view?usp=shari
 ## website
 https://www.cs.colostate.edu/~jtrcka/index.html#/
 
+## video
+https://youtu.be/vh6Ln1KXk_Y
+
